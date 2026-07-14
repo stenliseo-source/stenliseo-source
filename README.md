@@ -1,7 +1,7 @@
 Stanislav Peev
 SEO Consultant & AI Search (GEO) Specialist - Bratislava, Slovakia, working worldwide.
 
-17+ years in search (full-time since 2009). 150+ clients across the USA, UK, Belgium, Switzerland, Australia and Bulgaria. One of the early practitioners and published researchers in generative engine optimization (GEO) - making brands visible and cited in ChatGPT, Perplexity and Google AI Overviews.
+17+ years in search (full-time since 2009). 150+ clients across the USA, UK, Belgium, Switzerland and Australia. One of the early practitioners and published researchers in generative engine optimization (GEO) - making brands visible and cited in ChatGPT, Perplexity and Google AI Overviews.
 
 What I work on
 GEO / AI search visibility - passage-level citability, entity and Knowledge Graph building, AI-crawler configuration, citation tracking
